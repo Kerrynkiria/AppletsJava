@@ -35,6 +35,6 @@ public class PollingSystem extends Applet implements ActionListener {
             else if (selected == option3) votes3++;
         }
 
-        showStatus("Votes - Java: " + votes1 + ", Python: " + votes2 + ", C++: " + votes3);
+        showStatus("Votes - Pop: " + votes1 + ", RnB: " + votes2 + ", Soul: " + votes3);
     }
 }
